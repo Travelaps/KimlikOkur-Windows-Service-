@@ -1,0 +1,12 @@
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Release\KimlikOkurService.exe.config
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Release\KimlikOkurService.exe
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Release\KimlikOkurService.pdb
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Release\Interop.WIA.dll
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\Interop.WIA.dll
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\KimlikOkurService.csproj.ResolveComReference.cache
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\KimlikOkurService.ProjectInstaller.resources
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\KimlikOkurService.ScannerService.resources
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\KimlikOkurService.csproj.GenerateResource.cache
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\KimlikOkurService.csproj.CoreCompileInputs.cache
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\KimlikOkurService.exe
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Release\KimlikOkurService.pdb

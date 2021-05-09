@@ -1,0 +1,15 @@
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Debug\KimlikOkurService.exe.config
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Debug\KimlikOkurService.exe
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Debug\KimlikOkurService.pdb
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Debug\Interop.WIA.dll
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\Interop.WIA.dll
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.csproj.ResolveComReference.cache
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.ProjectInstaller.resources
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.csproj.GenerateResource.cache
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.csproj.CoreCompileInputs.cache
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.exe
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.pdb
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Debug\websocket-sharp.dll
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\bin\Debug\websocket-sharp.xml
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.WsScanner.resources
+C:\Users\SERKAN\source\repos\KimlikOkurService\KimlikOkurService\obj\Debug\KimlikOkurService.csproj.CopyComplete
