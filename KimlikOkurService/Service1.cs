@@ -94,24 +94,28 @@ namespace KimlikOkurService//SERKAN GND
                 }
                 Path = @"C:\KimlikOkurWebService\" + __FileName + ".jpg";//@"C:\KimlikOkurWebService"; //@"E:\ScanImg.jpg"; // save the image in some path with filename.
 
-                if (File.Exists(Path))
-                {
-                    File.Delete(Path);
-                }
-
+              
 
                 imgFile.SaveFile(Path);
                 string img = VaryQualityLevel(Path);
                 string s = ImageConvertToBase64(img);
+                try
+                {
+                    if (File.Exists(Path))
+                    {
+                        File.Delete(Path);
+                    }
+                    if (File.Exists(img))
+                    {
+                        File.Delete(img);
+                    }
+                }
+                catch (Exception)
+                {
 
-                if (File.Exists(Path))
-                {
-                   File.Delete(Path);
+                   
                 }
-                if (File.Exists(img))
-                {
-                    File.Delete(img);
-                }
+                
 
                 return s;
 
@@ -120,7 +124,7 @@ namespace KimlikOkurService//SERKAN GND
             }
             catch (COMException ex)
             {
-               
+                MessageBox.Show(ex.Message);
             }
             return null;
 
@@ -146,7 +150,7 @@ namespace KimlikOkurService//SERKAN GND
                 myEncoderParameter = new EncoderParameter(myEncoder, 100L);
                 myEncoderParameters.Param[0] = myEncoderParameter;
                 bmp1.Save(_Path, jpgEncoder, myEncoderParameters); 
-                return Path;
+                return _Path;
             }
         }
         private ImageCodecInfo GetEncoder(ImageFormat format)
